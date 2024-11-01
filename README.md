@@ -1,8 +1,10 @@
 Natural Disaster Analysis
+
 Project Overview
 This project provides a comprehensive analysis of natural disaster data collected from various APIs. Our goal is to gather, process, and visualize real-time disaster data, enabling effective monitoring and decision-making based on this information.
 
 Data Collection
+
 We collected disaster-related data from multiple APIs, bringing together diverse datasets to provide a comprehensive view of current and past events. The data retrieval is handled by a Python script, which gathers and structures data from these sources.
 
 Data Processing (ETL) on GCP
