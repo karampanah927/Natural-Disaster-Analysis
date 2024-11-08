@@ -25,4 +25,4 @@ We have configured a GCP job to automatically run this Flask app once daily, ens
 Once the data is in BigQuery, we connect it to Power BI to create interactive dashboards. These dashboards visualize the data, highlighting trends and insights that help monitor natural disasters effectively. This setup allows users to gain real-time insights into natural disasters, supporting management and preparedness.
 
 
-All the Python Scripts Could be found in this Repository.
+All the Python Scripts Could be found in this Repository-Scripts Directory.
